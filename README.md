@@ -16,3 +16,9 @@ O projeto foi criado pela Giovana Moeller
 ### 🎉 Resultado <hr>
 
 <img alt="sign-up-form" src="https://ik.imagekit.io/atnyozbx9v/final_hBbJ3p94C.png">
+
+<br><br><br>
+<p align="center">
+Desenvolvido com 💜 por Francielli Rodrigues.
+</p>
+
